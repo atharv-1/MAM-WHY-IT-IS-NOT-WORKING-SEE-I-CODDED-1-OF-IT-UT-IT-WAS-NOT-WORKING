@@ -1,0 +1,14 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url("https://cdn.mos.cms.futurecdn.net/zZBE2JvUmdU4HZzPdYWaFd-1200-80.jpg");
+}
+
+#myCanvas{
+background-color: steelblue;
+border-width: 15px;
+border-style: dotted;
+}
